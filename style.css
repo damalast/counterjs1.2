@@ -1,0 +1,16 @@
+.table, table.footer{
+    background-color:#dbdbdbad;
+    width: 560px;
+    background-position: center;
+    
+    
+  
+}
+.footer{
+    position: relative;
+}
+.output{
+    margin-left: 580px;
+    margin-bottom: 5px;
+
+}
